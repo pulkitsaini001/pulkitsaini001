@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Pulkit Saini 👋
 
-<!--
-**pulkitsaini001/pulkitsaini001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student at IFTM University
 
-Here are some ideas to get you started:
+💻 Currently learning:
+- Python
+- SQL
+- MySQL
+- Pandas
+- NumPy
+- Matplotlib
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 Aspiring Data Analyst
+
+🚀 Currently working on improving my programming and data analysis skills.
+
+📚 My goal is to build real-world projects and start my career as a Data Analyst.
